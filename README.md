@@ -8,8 +8,8 @@
 
 ## Results:
 
-![June](/June Stats.png)
-![December](/Dec Stats.png)
+![June](https://raw.githubusercontent.com/sergiocapacho/surfs_up/main/June%20Stats.png)
+![December](https://raw.githubusercontent.com/sergiocapacho/surfs_up/main/Dec%20Stats.png)
 
         1. June hot weather is more consistent that December.
         2. December lowest is 56 while June, its 64.
