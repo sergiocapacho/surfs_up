@@ -7,6 +7,10 @@
         The purpose of this analysis is to gather information that will convince investors based on real date to decide investing in the project about selling surfboards and ice cream. The most important information that the investor is looking for is weather data, as he had a project before which it was an important issue. 
 
 ## Results:
+
+![June](/June Stats.png)
+![December](/Dec Stats.png)
+
         1. June hot weather is more consistent that December.
         2. December lowest is 56 while June, its 64.
         3. June mean is 4 degrees higher than December
